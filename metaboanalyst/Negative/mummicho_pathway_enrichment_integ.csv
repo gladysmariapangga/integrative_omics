@@ -1,0 +1,40 @@
+"","Total_Size","Hits","Sig_Hits","Mummichog_Pvals","GSEA_Pvals","Combined_Pvals"
+"Glutathione metabolism",28,11,2,0.2601,0.0303,0.04605
+"Glycerophospholipid metabolism",36,6,1,0.4337,0.05102,0.1065
+"beta-Alanine metabolism",21,13,2,0.3299,0.07,0.1101
+"Phenylalanine metabolism",8,8,3,0.02806,0.999,0.1282
+"N-Glycan biosynthesis",40,3,1,0.247,0.1154,0.1299
+"Phenylalanine, tyrosine and tryptophan biosynthesis",4,4,2,0.04253,0.7333,0.1393
+"Fatty acid elongation",39,1,1,0.09008,0.5098,0.1874
+"Thiamine metabolism",7,3,1,0.247,0.2051,0.2017
+"Pyrimidine metabolism",40,18,4,0.06972,0.999,0.2552
+"Histidine metabolism",16,16,3,0.1676,0.5248,0.3018
+"Fatty acid degradation",39,3,1,0.247,0.5641,0.4139
+"Arginine biosynthesis",13,9,2,0.1907,0.7475,0.4202
+"Propanoate metabolism",22,8,2,0.1571,0.999,0.4475
+"Alanine, aspartate and glutamate metabolism",28,24,4,0.1617,0.999,0.4561
+"Butanoate metabolism",15,9,2,0.1907,0.999,0.5064
+"Fatty acid biosynthesis",47,6,1,0.4337,0.4796,0.5346
+"Caffeine metabolism",11,11,2,0.2601,0.999,0.61
+"Ubiquinone and other terpenoid-quinone biosynthesis",18,4,1,0.3151,0.977,0.6705
+"Tryptophan metabolism",39,32,4,0.3237,0.999,0.6885
+"Arginine and proline metabolism",36,28,3,0.4706,0.999,0.825
+"Drug metabolism - other enzymes",38,19,2,0.5237,0.999,0.8621
+"Pantothenate and CoA biosynthesis",20,12,1,0.6811,0.8283,0.8871
+"Lysine degradation",30,9,1,0.5747,0.999,0.8927
+"Metabolism of xenobiotics by cytochrome P450",48,21,2,0.5798,0.999,0.8955
+"Nicotinate and nicotinamide metabolism",15,10,1,0.6136,0.999,0.913
+"Pyruvate metabolism",23,10,1,0.6136,0.999,0.913
+"Cysteine and methionine metabolism",33,22,1,0.879,0.7129,0.9195
+"Tyrosine metabolism",42,37,3,0.6671,0.999,0.9369
+"Biosynthesis of unsaturated fatty acids",36,12,1,0.6811,0.999,0.9424
+"Valine, leucine and isoleucine degradation",40,13,1,0.7104,0.999,0.953
+"D-Amino acid metabolism",15,15,1,0.7612,0.999,0.9687
+"Drug metabolism - cytochrome P450",21,15,1,0.7612,0.999,0.9687
+"Pentose phosphate pathway",23,15,1,0.7612,0.999,0.9687
+"Glyoxylate and dicarboxylate metabolism",32,19,1,0.838,0.999,0.986
+"Glycine, serine and threonine metabolism",34,20,1,0.853,0.999,0.9885
+"Purine metabolism",67,25,1,0.9099,0.999,0.9957
+"Amino sugar and nucleotide sugar metabolism",42,26,1,0.9183,0.999,0.9965
+"Steroid hormone biosynthesis",74,54,2,0.9666,0.999,0.9994
+"Arachidonic acid metabolism",41,39,1,0.9776,0.999,0.9997
