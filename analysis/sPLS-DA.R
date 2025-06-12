@@ -2,7 +2,7 @@
 library(mixOmics)
 
 #PARAMETERS
-abund_df<-read.csv("metabolite_abundance.csv",header=TRUE,row.names=1)
+abund_df<-read.csv("../data/metabolite_abundance.csv",header=TRUE,row.names=1)
 abund_df[abund_df$Treatment=="No","Treatment"] <- "T1"
 abund_df[abund_df$Treatment=="Yes","Treatment"] <- "T2"
 abund_df$Treatment <- as.factor(abund_df$Treatment)
